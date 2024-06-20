@@ -1,0 +1,6 @@
+.custom-navbar {
+    display: flex;
+    justify-content: center; /* Centers the navbar content horizontally */
+    align-items: center; /* Centers the navbar content vertically */
+    height: 100%; /* Ensures the navbar takes the full height of its container */
+  }
